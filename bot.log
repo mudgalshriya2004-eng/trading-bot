@@ -1,0 +1,10 @@
+2026-04-20 23:58:50,288 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-04-20 23:58:50,862 - ERROR - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 00:33:51,638 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-04-21 00:33:52,192 - ERROR - Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-04-21 00:43:36,828 - INFO - [MOCK] Placing order: BTCUSDT BUY MARKET
+2026-04-21 00:43:36,828 - INFO - [MOCK RESPONSE]: {'orderId': 'TEST123456', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'MARKET'}
+2026-04-21 00:57:25,268 - INFO - [MOCK] Placing order: BTCUSDT BUY MARKET
+2026-04-21 00:57:25,270 - INFO - [MOCK RESPONSE]: {'orderId': 'TEST123456', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'MARKET'}
+2026-04-21 00:57:44,666 - INFO - [MOCK] Placing order: BTCUSDT BUY MARKET
+2026-04-21 00:57:44,667 - INFO - [MOCK RESPONSE]: {'orderId': 'TEST123456', 'status': 'FILLED', 'executedQty': 0.01, 'avgPrice': 'MARKET'}
